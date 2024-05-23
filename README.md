@@ -42,9 +42,5 @@ I'm also fascinated by the beauty of physics and can talk for hours about it. Re
 - 📧 [Email Me](mailto:lokranjandev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokranjan-p/)
 
----
-
 Feel free to reach out if you have any questions or just want to chat about tech, football, movies, or anything under the sun!
----
-
 
