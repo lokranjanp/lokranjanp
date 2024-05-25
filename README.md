@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Lokranjan, aka Loki
+# 👋 Hey there! I'm Lokranjan,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lokranjanp&style=flat-square)
 
