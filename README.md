@@ -67,7 +67,6 @@ My Github Stats
 <br/>
 <p align="left">
   <a href="https://lokranjan.org/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lokranjanp&show_icons=true&include_all_commits=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokranjanp&theme=gruvbox&hide_border=true" />
   </a>
 </p>
