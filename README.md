@@ -6,8 +6,8 @@ class Lokranjan():
     self.name = "Lokranjan P";
     self.username = "lokranjanp";
     self.location = "Mysuru, India";
-    self.web = "https://lokranjan.org";
-    self.web_curr_status = false;
+    self.web = "https://lokranjan.online";
+
   
   def __str__(self):
     return self.name
@@ -19,6 +19,8 @@ if __name__ == '__main__':
 ## 🎓 About Me
 
 I'm a 21-year-old Computer Science engineering undergrad from a state-level college in India. Currently, I'm on the hunt for exciting internship opportunities while continuously learning new tech and skills.
+
+Checkout my portfolio website : www.lokranjan.online
 
 - 🔍 **Current Focus:** DSA, ML
 - 🎯 **Goal:** To secure a great placement with an awesome salary and a solid start to my career.
