@@ -18,41 +18,31 @@ if __name__ == '__main__':
 
 ## 🎓 About Me
 
-I'm a 21-year-old Computer Science engineering undergrad from a state-level college in India. Currently, I'm on the hunt for exciting internship opportunities while continuously learning new tech and skills.
+I'm a 21-year-old Computer Science engineering undergrad from a state-level college in India. Currently, I'm on the hunt for exciting internship opportunities while continuously learning new tech and skills. I am currently working on building my own 2FA system along with a workout based app/platform.
 
-Checkout my portfolio website : www.lokranjan.online
-
-- 🔍 **Current Focus:** DSA, ML
-- 🎯 **Goal:** To secure a great placement with an awesome salary and a solid start to my career.
-- 🎓 **Future Plan:** Work in the IT industry for 2-3 years and then get into core research of Computer Science
-- 🧠 **Interests:** Neural Networks, Reinforcement Learning
 
 ## 🛠️ Tech Stack
 
 Here's what I rock when it comes to technology:
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **ML:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Languages:** Python, C++, Java, SQL, MATLAB
+- **Web Development:** Flask, HTML, CSS, JavaScript
+- **ML:** TensorFlow, PyTorch, SciKit-Learn
+- **Databases:** MySQL, Redis, MongoDB
+- **Tools:** GitHub, PostMan, PyCharm
 
 ## 💡 Interests
 
 When I'm not coding, you can find me indulging in:
 
-- ⚽ Football (massive fan!)
+- 💪 Working out (weight and resistance training)
 - 🎶 Music
 - 🎥 Good cinema (Nolan, Spielberg, Scorsese, Tarantino, Fincher, Russo's) => 😮‍💨🗿
-- 💪 Working out (weight and resistance training)
+- ⚽ Football (massive fan!)
 
-I'm also fascinated by the beauty of physics and can talk for hours about it. Recently, I've been diving deep into the realms of AI and ML, aiming to become a stellar engineer in this field.
-
-## 💼 Projects and Work Ethic
-
-- 🚀 I focus on creating unique projects rather than just following the crowd with YouTube and Netflix clones.
-- 🏋️ My work ethic is as disciplined as my gym routine. Consistency and dedication are key!
-
+I'm also fascinated by the beauty of physics and can talk for hours about it. 
+<br>
+🏋️ My work ethic is as disciplined as my gym routine. Consistency and dedication are key!
 <br>
 
 <p>
@@ -68,9 +58,7 @@ My Github Stats
 
 <br/>
 <p align="left">
-  <a href="https://lokranjan.org/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokranjanp&theme=gruvbox&hide_border=true" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lokranjanp&theme=dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D&background=45%2C000000%2C000000" alt="GitHub Streak" /></a>
 </p>
 <br>
 
