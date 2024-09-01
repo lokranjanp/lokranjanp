@@ -39,21 +39,10 @@ When I'm not coding, you can find me indulging in:
 - ⚽ Football (massive fan!)
 
 I'm also fascinated by the beauty of physics and can talk for hours about it. 
-<br>
+
 🏋️ My work ethic is as disciplined as my gym routine. Consistency and dedication are key!
-<br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-MATLAB-0076a8?style=for-the-badge&logo=mathworks&logoColor=0076a8&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=282828">
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=003B57&labelColor=282828">
-</div>
-</p>
-
-My Github Stats
-
+## 📈 My Github Stats
 <br/>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lokranjanp&theme=dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D&background=45%2C000000%2C000000" alt="GitHub Streak" /></a>
