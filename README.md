@@ -6,8 +6,6 @@ class Lokranjan():
     self.name = "Lokranjan P";
     self.username = "lokranjanp";
     self.location = "Mysuru, India";
-    self.web = "https://lokranjan.online";
-
   
   def __str__(self):
     return self.name
@@ -27,7 +25,7 @@ Here's what I rock when it comes to technology:
 
 - **Languages:** Python, C++, Java, SQL, MATLAB
 - **Web Development:** Flask, HTML, CSS, JavaScript
-- **ML:** TensorFlow, PyTorch, SciKit-Learn
+- **ML:** Numpy, Pandas, TensorFlow, PyTorch, SciKit-Learn
 - **Databases:** MySQL, Redis, MongoDB
 - **Tools:** GitHub, PostMan, PyCharm
 
@@ -68,8 +66,3 @@ My Github Stats
 
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="www.linkedin.com/in/lokranjan-p" target="blank"><img align="center" src="https://img.shields.io/badge/Lokranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:lokranjan03@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/lokranjano3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/lokranjanp" target="blank"><img align="center" src="https://img.shields.io/badge/lokranjanp-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
