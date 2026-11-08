@@ -6,4 +6,4 @@ i like problems that give me a reason to learn the math underneath. lately, that
 
 away from the keyboard, i'm usually lifting, running, or finding an excuse to take my Triumph somewhere.
 
-[website](https://lokranjan.dev/#about) · [linkedin](https://www.linkedin.com/in/lokranjanp/) · [github](https://github.com/lokranjanp) · [email](mailto:lokranjan03@gmail.com) · [resume](https://drive.google.com/file/d/11cDYFj9sDJo5iH9VuJtVh5dE_OiHw2Pp/view?usp=sharing) · [medium](https://medium.com/@lokranjanp) · 
+[website](https://lokranjan.dev/#about) · [linkedin](https://www.linkedin.com/in/lokranjanp/) · [email](mailto:lokranjan03@gmail.com) · [resume](https://drive.google.com/file/d/11cDYFj9sDJo5iH9VuJtVh5dE_OiHw2Pp/view?usp=sharing) · [medium](https://medium.com/@lokranjanp)
